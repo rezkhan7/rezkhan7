@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I am proficient in coding using JavaScript, C++, and Python
 - 👯 Some technolgies I am acquainted with include ReactJS, Node.js, Django, Git, and UNIX
 - 🤔 I am an aspiring Software Engineer who is hoping to make a difference with my code
-- 📫 You can reach me through email; my email is rezkhxn@gmail.com
 - 😄 Welcome to my GitHub! Make yourself at home.
