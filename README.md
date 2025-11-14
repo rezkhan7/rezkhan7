@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently a student at CUNY Hunter College pursuing a bachelor's degree in Computer Science
+- 🔭 I’m currently a Software Engineer pursuing my master's at Georgia Tech
 - 🌱 I am proficient in coding using JavaScript, C++, and Python
 - 👯 Some technolgies I am acquainted with include ReactJS, Node.js, Django, Git, and UNIX
-- 🤔 I am an aspiring Software Engineer who is hoping to make a difference with my code
+- 🤔 My main mission is to make a difference with my code
 - 😄 Welcome to my GitHub! Make yourself at home.
